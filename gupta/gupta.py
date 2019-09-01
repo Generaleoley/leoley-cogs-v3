@@ -5,7 +5,7 @@ from redbot.core.utils.menus import menu, DEFAULT_CONTROLS
 from random import choice
 
 
-class Gupta(commands.Cog):
+class GuptaCog(commands.Cog):
 
 
     def __init__(self, bot):
